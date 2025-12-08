@@ -49,7 +49,7 @@ VK: kbezroukov
 * Белорусский
 * * *
 ## Кусок кода
-
+```html
 <hr>
 <h2>Образование</h2>
 <ul>
@@ -70,3 +70,5 @@ VK: kbezroukov
 </section>
 
 <hr>
+```
+
